@@ -1,0 +1,39 @@
+header .row {
+  padding: 30px;
+
+}
+
+header .row h1 {
+  font-size: 20px;
+  color: #fff;
+}
+
+.menu ul li a {
+  color: #fff;
+}
+.menu ul li {
+  transition: .4s;
+}
+
+.menu ul li:hover {
+  background-color: #FFD54F;
+  border-left: 4px solid rgb(95, 247, 138);
+  margin-left: 10px;
+}
+
+.menu {
+  height: 650px;
+  background-color: rgb(105, 47, 170);
+}
+.box-title h1{
+  color: #fff;
+}
+
+footer {
+  padding: 30px;
+}
+
+footer p{
+  color: #FFF;
+  font-size: 14px;
+}
